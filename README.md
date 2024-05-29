@@ -1,4 +1,4 @@
-# Home Listings Angular Application
+# Home Listings Angular Web Application
 
 ## Overview
 
